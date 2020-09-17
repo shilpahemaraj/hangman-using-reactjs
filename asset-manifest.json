@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hangman-using-reactjs/static/css/main.bab13ed4.chunk.css",
+    "main.js": "/hangman-using-reactjs/static/js/main.b9ca5cc8.chunk.js",
+    "main.js.map": "/hangman-using-reactjs/static/js/main.b9ca5cc8.chunk.js.map",
+    "runtime-main.js": "/hangman-using-reactjs/static/js/runtime-main.fd575f1c.js",
+    "runtime-main.js.map": "/hangman-using-reactjs/static/js/runtime-main.fd575f1c.js.map",
+    "static/js/2.9a1198f1.chunk.js": "/hangman-using-reactjs/static/js/2.9a1198f1.chunk.js",
+    "static/js/2.9a1198f1.chunk.js.map": "/hangman-using-reactjs/static/js/2.9a1198f1.chunk.js.map",
+    "index.html": "/hangman-using-reactjs/index.html",
+    "precache-manifest.73b598c3e781f9e6c20cc4694dd06a1b.js": "/hangman-using-reactjs/precache-manifest.73b598c3e781f9e6c20cc4694dd06a1b.js",
+    "service-worker.js": "/hangman-using-reactjs/service-worker.js",
+    "static/css/main.bab13ed4.chunk.css.map": "/hangman-using-reactjs/static/css/main.bab13ed4.chunk.css.map",
+    "static/js/2.9a1198f1.chunk.js.LICENSE.txt": "/hangman-using-reactjs/static/js/2.9a1198f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd575f1c.js",
+    "static/js/2.9a1198f1.chunk.js",
+    "static/css/main.bab13ed4.chunk.css",
+    "static/js/main.b9ca5cc8.chunk.js"
+  ]
+}
